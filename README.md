@@ -14,8 +14,8 @@
 </div>
 
 ## 🎯 Goal 
+Provide farmers and extension officers with an intuitive web tool to detect common potato diseases using real-time image classification, enhanced UI, and scalable backend built for African deployment contexts.
 
-The goal of this project is to help farmers diagnose their crops. This project uses image classification using CNN architecture with Tensorflow to detect potato plant diseases, deployed to GCP and used in a web frontend app made with React.
 
 ## 💾 Dataset Used  
 
@@ -58,7 +58,8 @@ More info about dataset can be found here :
 4. Run the notebook
 
 `jupyter notebook`
-
+5. open notebook to see results
+`Open Deep learning for potato disease classification.ipynb to retrain or review model logic.`
 ## Front End Usage :
 
 1. Go to the **frontend** directory:
@@ -73,9 +74,7 @@ More info about dataset can be found here :
 
 `npm run start`
 
-## 📨 Contact Me
-
-[LinkedIn](https://www.linkedin.com/in/hamza-elbelghiti/) •
-[Website](https://hamagistral.me) •
-[Gmail](hamza.lbelghiti@gmail.com)
-
+## ✍️Credits
+`Original architecture by Hamza Elbelghiti Repackaged and extended by Odhiambo Okeyi for Kenyan farm settings, modular ML, and emotion-first UI design.`
+## 📩 Let’s Connect
+`🔗 LinkedIn 🎒 GitHub: Data-Enthusiast8888`
