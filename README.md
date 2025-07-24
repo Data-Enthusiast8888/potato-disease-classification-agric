@@ -27,9 +27,9 @@ More info about dataset can be found here :
 
 ## 📝 Project Architecture
 
-![potatodisease_architecture](https://github.com/Hamagistral/Potato-Disease-Classification/assets/66017329/ec0ae211-bd26-4b7c-9115-641bb0dc1084)
 
-## 🛠️ Technologies Used
+
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -58,8 +58,7 @@ More info about dataset can be found here :
 4. Run the notebook
 
 `jupyter notebook`
-5. open notebook to see results
-`Open Deep learning for potato disease classification.ipynb to retrain or review model logic.`
+
 ## Front End Usage :
 
 1. Go to the **frontend** directory:
