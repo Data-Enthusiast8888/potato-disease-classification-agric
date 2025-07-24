@@ -75,5 +75,7 @@ More info about dataset can be found here :
 
 ## ✍️Credits
 `Original architecture by Hamza Elbelghiti Repackaged and extended by Odhiambo Okeyi for Kenyan farm settings, modular ML, and emotion-first UI design.`
-## 📩 Let’s Connect
-`🔗 LinkedIn 🎒 GitHub: Data-Enthusiast8888`
+#### 📩 Let’s Connect
+
+`🔗 [LinkedIn - Odhiambo Okeyi](https://www.linkedin.com/in/odhiambo-okeyi/) ` 
+`🎒 GitHub: [Data-Enthusiast8888](https://github.com/Data-Enthusiast8888)`
